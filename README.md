@@ -6,4 +6,5 @@ Application permettant de regrouper son contenu consommé (liké, enregistré, c
 
 https://user-images.githubusercontent.com/60384986/191320384-176eb767-e364-46e8-8ff5-ae51f42d1115.mp4
 
-<img width="1440" alt="gridLife2" src="https://user-images.githubusercontent.com/60384986/192073600-69c518df-9c9c-427f-a86b-7151c56792a4.png">
+<img width="1014" alt="Capture d’écran 2022-09-24 à 03 02 12" src="https://user-images.githubusercontent.com/60384986/192073631-bc15256c-3b58-4cd1-9d57-b500e9d158cf.png">
+
